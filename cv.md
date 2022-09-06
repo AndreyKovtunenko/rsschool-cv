@@ -30,7 +30,7 @@
   return newArr.concat(arrZero)
 }
  ```
-  ### My another code examples:](https://www.codewars.com/users/AndreyKovtunenko86)
+  ### [My another code examples:](https://www.codewars.com/users/AndreyKovtunenko86)
  
  ## Education :
 +  **National Technical University of Ukraine «Igor Sikorsky Kyiv Polytechnic Institute»**
